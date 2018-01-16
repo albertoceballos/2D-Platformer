@@ -1,0 +1,2207 @@
+fileFormatVersion: 2
+guid: 8ba80fa6054735241bab7a38bf783818
+timeCreated: 1514155399
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mario sprite sheet_0
+    21300002: mario sprite sheet_1
+    21300004: mario sprite sheet_2
+    21300006: mario sprite sheet_3
+    21300008: mario sprite sheet_4
+    21300010: mario sprite sheet_5
+    21300012: mario sprite sheet_6
+    21300014: mario sprite sheet_7
+    21300016: mario sprite sheet_8
+    21300018: mario sprite sheet_9
+    21300020: mario sprite sheet_10
+    21300022: mario sprite sheet_11
+    21300024: mario sprite sheet_12
+    21300026: mario sprite sheet_13
+    21300028: mario sprite sheet_14
+    21300030: mario sprite sheet_15
+    21300032: mario sprite sheet_16
+    21300034: mario sprite sheet_17
+    21300036: mario sprite sheet_18
+    21300038: mario sprite sheet_19
+    21300040: mario sprite sheet_20
+    21300042: mario sprite sheet_21
+    21300044: mario sprite sheet_22
+    21300046: mario sprite sheet_23
+    21300048: mario sprite sheet_24
+    21300050: mario sprite sheet_25
+    21300052: mario sprite sheet_26
+    21300054: mario sprite sheet_27
+    21300056: mario sprite sheet_28
+    21300058: mario sprite sheet_29
+    21300060: mario sprite sheet_30
+    21300062: mario sprite sheet_31
+    21300064: mario sprite sheet_32
+    21300066: mario sprite sheet_33
+    21300068: mario sprite sheet_34
+    21300070: mario sprite sheet_35
+    21300072: mario sprite sheet_36
+    21300074: mario sprite sheet_37
+    21300076: mario sprite sheet_38
+    21300078: mario sprite sheet_39
+    21300080: mario sprite sheet_40
+    21300082: mario sprite sheet_41
+    21300084: mario sprite sheet_42
+    21300086: mario sprite sheet_43
+    21300088: mario sprite sheet_44
+    21300090: mario sprite sheet_45
+    21300092: mario sprite sheet_46
+    21300094: mario sprite sheet_47
+    21300096: mario sprite sheet_48
+    21300098: mario sprite sheet_49
+    21300100: mario sprite sheet_50
+    21300102: mario sprite sheet_51
+    21300104: mario sprite sheet_52
+    21300106: mario sprite sheet_53
+    21300108: mario sprite sheet_54
+    21300110: mario sprite sheet_55
+    21300112: mario sprite sheet_56
+    21300114: mario sprite sheet_57
+    21300116: mario sprite sheet_58
+    21300118: mario sprite sheet_59
+    21300120: mario sprite sheet_60
+    21300122: mario sprite sheet_61
+    21300124: mario sprite sheet_62
+    21300126: mario sprite sheet_63
+    21300128: mario sprite sheet_64
+    21300130: mario sprite sheet_65
+    21300132: mario sprite sheet_66
+    21300134: mario sprite sheet_67
+    21300136: mario sprite sheet_68
+    21300138: mario sprite sheet_69
+    21300140: mario sprite sheet_70
+    21300142: mario sprite sheet_71
+    21300144: mario sprite sheet_72
+    21300146: mario sprite sheet_73
+    21300148: mario sprite sheet_74
+    21300150: mario sprite sheet_75
+    21300152: mario sprite sheet_76
+    21300154: mario sprite sheet_77
+    21300156: mario sprite sheet_78
+    21300158: mario sprite sheet_79
+    21300160: mario sprite sheet_80
+    21300162: mario sprite sheet_81
+    21300164: mario sprite sheet_82
+    21300166: mario sprite sheet_83
+    21300168: mario sprite sheet_84
+    21300170: mario sprite sheet_85
+    21300172: mario sprite sheet_86
+    21300174: mario sprite sheet_87
+    21300176: mario sprite sheet_88
+    21300178: mario sprite sheet_89
+    21300180: mario sprite sheet_90
+    21300182: mario sprite sheet_91
+    21300184: mario sprite sheet_92
+    21300186: mario sprite sheet_93
+    21300188: mario sprite sheet_94
+    21300190: mario sprite sheet_95
+    21300192: mario sprite sheet_96
+    21300194: mario sprite sheet_97
+    21300196: mario sprite sheet_98
+    21300198: mario sprite sheet_99
+    21300200: mario sprite sheet_100
+    21300202: mario sprite sheet_101
+    21300204: mario sprite sheet_102
+    21300206: mario sprite sheet_103
+    21300208: mario sprite sheet_104
+    21300210: mario sprite sheet_105
+    21300212: mario sprite sheet_106
+    21300214: mario sprite sheet_107
+    21300216: mario sprite sheet_108
+    21300218: mario sprite sheet_109
+    21300220: mario sprite sheet_110
+    21300222: mario sprite sheet_111
+    21300224: mario sprite sheet_112
+    21300226: mario sprite sheet_113
+    21300228: mario sprite sheet_114
+    21300230: mario sprite sheet_115
+    21300232: mario sprite sheet_116
+    21300234: mario sprite sheet_117
+    21300236: mario sprite sheet_118
+    21300238: mario sprite sheet_119
+    21300240: mario sprite sheet_120
+    21300242: mario sprite sheet_121
+    21300244: mario sprite sheet_122
+    21300246: mario sprite sheet_123
+    21300248: mario sprite sheet_124
+    21300250: mario sprite sheet_125
+    21300252: mario sprite sheet_126
+    21300254: mario sprite sheet_127
+    21300256: mario sprite sheet_128
+    21300258: mario sprite sheet_129
+    21300260: mario sprite sheet_130
+    21300262: mario sprite sheet_131
+    21300264: mario sprite sheet_132
+    21300266: mario sprite sheet_133
+    21300268: mario sprite sheet_134
+    21300270: mario sprite sheet_135
+    21300272: mario sprite sheet_136
+    21300274: mario sprite sheet_137
+    21300276: mario sprite sheet_138
+    21300278: mario sprite sheet_139
+    21300280: mario sprite sheet_140
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 654
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 637
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 637
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 637
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 654
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 637
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 637
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 654
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 654
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 637
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 639
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 657
+        width: 14
+        height: 27
+      alignment: 9
+      pivot: {x: 0.9825134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 637
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 637
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 637
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 637
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 654
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 655
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 637
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 637
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 655
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 654
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 654
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 654
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 654
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 654
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 589
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 589
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 589
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 589
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 589
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 589
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 589
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 589
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 592
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 589
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 590
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 589
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 590
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 589
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 590
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 589
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 589
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 589
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 588
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 589
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 589
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 572
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 572
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 572
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 572
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 572
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 572
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 573
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 572
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 572
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 572
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 572
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 572
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 572
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 572
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 463
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 463
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 463
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 463
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 463
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 463
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 463
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_74
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 463
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 466
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 463
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 464
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 463
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 463
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_80
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 463
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_81
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 463
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_82
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 463
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 463
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_84
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 463
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_85
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 463
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_86
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 463
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 464
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_88
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_90
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_91
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_92
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 446
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_93
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 446
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 446
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_96
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 446
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_97
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_98
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 448
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_99
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 446
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_100
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 446
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_102
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 446
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_103
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 509
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_104
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 509
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_105
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 509
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_106
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 509
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_108
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 509
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 509
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_110
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 511
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_112
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 509
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_113
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 509
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 509
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 509
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_116
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 509
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_117
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 527
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_118
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 526
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_119
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 526
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_120
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 526
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 526
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_122
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 526
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_123
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 527
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_124
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 526
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_125
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 527
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 526
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_127
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 526
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_128
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 526
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_129
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 526
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_130
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 526
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_131
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 526
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_132
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 526
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_133
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 526
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_134
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 529
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_135
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 526
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_136
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 527
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 526
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_138
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 654
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_139
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 655
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mario sprite sheet_140
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 654
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
